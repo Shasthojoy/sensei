@@ -158,6 +158,7 @@ class Sensei_Autoloader {
 			'Sensei_Unsupported_Theme_Handler_Course'         => 'unsupported-theme-handlers/class-sensei-unsupported-theme-handler-course.php',
 			'Sensei_Unsupported_Theme_Handler_Module'         => 'unsupported-theme-handlers/class-sensei-unsupported-theme-handler-module.php',
 			'Sensei_Unsupported_Theme_Handler_Course_Results' => 'unsupported-theme-handlers/class-sensei-unsupported-theme-handler-course-results.php',
+			'Sensei_Unsupported_Theme_Handler_Course_Archive' => 'unsupported-theme-handlers/class-sensei-unsupported-theme-handler-course-archive.php',
 
             /**
              * Built in theme integration support
